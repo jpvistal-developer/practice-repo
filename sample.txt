@@ -1,0 +1,5 @@
+This is a practice text for the Git Practice Activity
+
+The quick little brown fox jumps over the lazy dog.
+
+This is a sample comment for this line
