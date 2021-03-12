@@ -7,3 +7,6 @@ hello world is the most common phrase for testing any code.
 Added something new in this line.
 
 Hey this is a new for for testing the cherry-pick
+
+
+This text is for testing delete remote branch from cli
